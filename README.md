@@ -12,3 +12,6 @@ The simple use of the question bank allows a user go hit the back button and re-
 
 # Next Steps
 Remove the previous button and implement a random selection from the question bank.
+
+# Google Play Link
+https://play.google.com/store/apps/details?id=com.josh.freetriviaapp
