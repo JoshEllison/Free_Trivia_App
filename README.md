@@ -11,4 +11,4 @@ Model View Controller Architecture to keep code organized and effecient. HTTP re
 The simple use of the question bank allows a user go hit the back button and re-attempt a question that they got incorrect. They could also hit the back previous button and continually rack up their score by resubmitting correct answers in that manner.
 
 # Next Steps
-Remove the previous button and implement a random selection from the question bank. Set up a boolean value for if the question has been used and populate the question bank without used questions for the next selection.
+Remove the previous button and implement a random selection from the question bank.
